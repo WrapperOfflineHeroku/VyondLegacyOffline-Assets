@@ -274,7 +274,7 @@ function voiceBanner(bannerId) {
         var enable_full_screen = true;
         var studio_data = {
             id: "Studio",
-            swf: "https://localhost:4664/animation/414827163ad4eb60/go_full.swf",
+            swf: "https://wrapperoffline3.github.io/animation/414827163ad4eb60/go_full.swf",
             width: "100%",
             height: "100%",
             align: "middle",
@@ -525,7 +525,7 @@ function loadLegacyPreview() {
     createPreviewPlayer("playerdiv", {
         height: 360,
         width: 640,
-        player_url: "https://localhost:4664/animation/414827163ad4eb60/player.swf",
+        player_url: "https://wrapperoffline3.github.io/animation/414827163ad4eb60/player.swf",
         quality: "medium"
     }, {
         movieOwner: "", movieOwnerId: "", movieId: "", ut: "-1",
@@ -534,7 +534,7 @@ function loadLegacyPreview() {
         autostart: "1", appCode: "go", is_slideshow: "0", originalId: "0", is_emessage: "0", isEmbed: "0", refuser: "",
         utm_source: "", uid: "", isTemplate: "1", showButtons: "0", chain_mids: "", showshare: "0", averageRating: "",
                     s3base: "https://s3.amazonaws.com/fs.goanimate.com/,https://assets.vyond.com/",
-                ratingCount: "", fb_app_url: "/", numContact: 0, isInitFromExternal: 1, storePath: "https://localhost:4664/store/3a981f5cb2739137/<store>", clientThemePath: "https://localhost:4664/static/ad44370a650793d9/<client_theme>", animationPath: "https://localhost:4664/animation/414827163ad4eb60/",
+                ratingCount: "", fb_app_url: "/", numContact: 0, isInitFromExternal: 1, storePath: "https://wrapperoffline3.github.io/store/3a981f5cb2739137/<store>", clientThemePath: "https://wrapperoffline3.github.io/static/ad44370a650793d9/<client_theme>", animationPath: "https://wrapperoffline3.github.io/animation/414827163ad4eb60/",
         startFrame: previewStartFrame
     });
     $('#previewPlayer').removeClass('using-h5');

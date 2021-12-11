@@ -489,7 +489,7 @@ function playerLoaded() {
 };
 jQuery('#playerdiv').flash({
     id: "Player",
-    swf: "https://localhost:4664/animation/414827163ad4eb60/player.swf",
+    swf: "https://wrapperoffline3.github.io/animation/414827163ad4eb60/player.swf",
     height: 349,
     width: 620,
     bgcolor: "#000000",

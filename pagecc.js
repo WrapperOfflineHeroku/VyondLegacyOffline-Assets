@@ -232,12 +232,12 @@ $(window).on('amplitude_loaded', function() {
 <footer>
 	<nav id="foot-left">
 		<a>v1.2.3½</a>
-		<a href="https://localhost:4664/faq.html">FAQ</a>
+		<a href="https://wrapperoffline3.github.io/faq.html">FAQ</a>
 		<a href="https://discord.gg/yhGAetN">Wrapper Hub</a>
 	</nav>
 	<nav id="foot-right">
-		<a href="https://localhost:4664">Server Page</a>
-		<a href="https://localhost:4664/caillou.html">Caillou</a>
+		<a href="https://wrapperoffline3.github.io">Server Page</a>
+		<a href="https://wrapperoffline3.github.io/caillou.html">Caillou</a>
 	</nav>
 </footer>
 <div id="studio_container" style="display: none;">
